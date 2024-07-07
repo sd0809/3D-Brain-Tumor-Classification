@@ -28,4 +28,4 @@ Then, put your data in `hdf5_path` and put your tumor mask dir in `mask_path`
 `sh run.sh`
 
 ## 
-If you find our project useful, please consider star it  : )
+If you find our project useful, please consider starring it  : )
